@@ -1,0 +1,17 @@
+#logo {
+    height: 50px;
+}
+
+#header {
+    display: flex;
+    align-items: center;
+}
+
+#header h2 {
+    margin-right: 10px;
+}
+
+#menu {
+    margin-left: auto;
+    margin-right: auto;
+}
